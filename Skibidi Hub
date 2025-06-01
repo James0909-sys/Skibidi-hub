@@ -1,1 +1,492 @@
---[[ v1.0.0 https://wearedevs.net/obfuscator ]] return(function(...)local p={"\075\043\113\061";"\071\109\065\088\067\122\071\074\098\084\054\119\075\079\066\061","\115\101\106\076\074\066\082\117\071\114\061\061";"\087\113\070\087\072\115\087\055\117\053\048\090\119\087\113\061","\098\050\061\061","\102\099\051\112";"\102\079\053\048\118\117\065\066\052\108\121\048\119\065\068\103\074\084\114\087\085\049\089\120\082\053\099\105\073\047\113\061";"\054\087\103\098\111\110\068\066\121\106\047\055\089\090\111\043\108\108\121\103\048\056\066\061";"\056\055\082\105";"\115\108\078\077\070\083\069\071\107\113\100\049\105\101\100\113\072\055\053\088\071\048\084\119\043\109\075\076\081\050\061\061";"\102\079\113\086\089\111\098\115\055\068\056\049\108\090\117\061";"\043\073\051\084\052\097\100\083\084\073\069\057\116\114\061\061","\117\085\056\107\072\081\107\098\098\102\066\077","\070\086\055\116\098\104\050\056\056\097\086\068\049\056\052\086\108\112\055\056\097\107\054\117\110\117\117\061";"\119\080\085\108\109\069\081\103\106\114\061\061","\104\097\099\054\113\048\114\104\085\097\116\061","\100\056\070\109\048\103\071\098\049\114\061\061","\118\084\117\061","\047\078\053\069","\088\057\066\061","\072\067\086\061";"\080\050\061\061","\084\068\112\061","\114\081\122\057\100\054\047\114\113\084\075\043\116\106\080\083\108\083\057\065\072\088\057\055\066\113\051\072\115\070\061\061";"\110\077\065\057\119\097\074\085\086\070\061\061";"\100\082\056\061","\076\074\053\054\107\050\075\077\072\084\114\103\116\070\061\061";"\097\080\050\057\114\086\050\050\053\070\061\061";"\109\102\089\056\072\098\068\120\077\076\112\070\049\055\056\061";"\077\072\118\043\108\104\088\082\054\120\122\079\101\070\061\061";"\054\111\047\086\114\074\049\049","\082\066\061\061","\066\113\051\087\116\043\055\066\087\073\071\043\114\086\070\061";"\067\120\082\073";"\107\065\069\113\071\116\083\082\084\070\061\061";"\088\070\118\103\119\114\061\061","\057\056\110\122","\111\055\117\109\050\122\070\061";"\105\101\116\061","\043\073\071\100\072\101\054\068","\097\070\043\061","\072\102\073\051\111\118\104\101\086\066\061\061";"\120\066\052\104\099\065\074\119\079\088\048\051\055\105\056\061","\102\114\068\056\085\120\056\078\107\078\049\061";"\120\100\089\119","\103\097\117\052";"\097\070\061\061";"\106\051\049\109\111\066\056\072\075\114\061\061";"\121\086\043\061";"\049\055\108\082","\122\065\112\061";"\104\054\105\097\116\048\109\104\053\088\054\088\120\066\061\061";"\085\081\050\053\113\086\047\075\083\048\083\051\089\114\061\061";"\103\065\073\050\119\120\089\089\120\112\049\061","\051\057\106\089\115\108\043\069\077\121\049\073\082\050\061\061","\097\066\118\066\088\112\079\113\121\081\106\121\069\116\078\055","\119\088\088\078","\071\104\051\065\074\073\077\069\053\056\086\118","\070\099\112\061","\072\102\099\048\073\054\101\088\113\120\113\061";"\048\066\061\061","\117\118\078\088\086\112\069\081\098\085\065\061","\068\078\120\052\119\099\081\048\111\103\121\054\078\079\075\061","\107\114\061\061","\086\099\050\061";"\104\111\112\061","\083\043\056\061","\065\081\050\101\079\120\115\119\113\070\061\061";"\056\053\075\061";"\068\104\065\110\112\069\107\088\080\074\119\103\055\080\048\085\101\107\081\089\108\114\061\061","\078\116\078\079\087\050\061\061";"\087\066\061\061";"\112\097\043\061";"\085\075\110\089\071\068\120\117\047\107\122\074\110\066\061\061","\117\049\103\099\079\097\069\056\118\075\111\052\111\090\051\110","\110\117\067\052\047\075\081\086\080\078\121\077\110\102\113\061","\087\068\080\112\121\114\061\061";"\105\086\103\122\098\110\119\121\097\084\120\089\072\075\082\083\070\109\112\061","\117\074\107\113\087\073\116\069\082\117\104\107\053\075\070\108","\069\068\073\097\084\074\101\075\103\066\061\061";"\073\079\087\061";"\103\067\082\106\114\098\116\104\115\047\090\112\071\077\069\055\084\086\067\109\107\112\086\102\119\112\117\050\072\055\102\057\105\100\122\101\070\050\088\072\104\115\088\120\084\087\047\085\055\070\061\061","\054\084\105\055","\115\085\083\075\121\101\117\061","\109\070\078\098\120\114\061\061","\081\107\106\083\070\100\106\072\097\073\112\061";"\070\113\106\121\110\087\109\090\065\109\082\119\065\065\052\061","\078\087\070\061";"\047\085\087\061","\107\081\075\089\073\085\112\099\066\066\097\089\074\081\118\110\068\068\120\115\119\084\117\061","\068\070\043\061";"\057\117\065\061","\090\102\066\061";"\121\066\050\089\082\106\088\097\114\086\073\101";"\121\114\066\061";"\114\070\061\061","\086\114\087\090\083\117\084\075\082\050\061\061";"\115\104\067\101";"\065\069\116\061";"\056\108\052\061";"\111\085\116\061","\057\068\086\106\075\103\065\083\111\065\116\106\117\122\050\061";"\053\078\097\069\076\052\114\050\070\072\101\068\105\113\099\057\098\050\107\055\053\074\112\085\107\080\057\103\111\107\052\061";"\074\069\104\082\069\116\051\090\080\090\073\088\079\117\072\048\082\049\050\061","\083\066\061\061";"\118\090\114\061","\076\118\100\068\052\083\100\118\043\087\077\106\068\067\048\069\118\078\087\103\052\071\103\080\053\047\087\103\081\072\065\061";"\067\106\077\117\076\066\061\061";"\111\075\054\122\080\110\118\110\071\066\052\084\081\048\112\068\078\065\043\114\066\114\061\061","\068\110\079\110\050\049\050\121\085\055\115\043\111\066\061\061";"\101\116\113\068\086\052\099\099\068\090\111\115\110\105\083\080","\081\071\107\075\101\051\098\079\102\050\061\061";"\047\056\052\048";"\070\103\116\061";"\098\104\087\061","\043\100\082\074\099\106\075\068\109\122\075\061";"\099\050\061\061","\056\074\115\049\122\067\106\051\071\101\108\101\115\066\061\061","\116\068\049\061","\084\054\087\108\105\107\070\061";"\077\080\120\102\089\075\065\111\051\048\043\061";"\106\068\070\051\116\106\056\055\088\085\053\122";"\097\114\056\061","\086\098\117\108\048\069\068\101\052\065\114\105\078\074\087\061","\070\070\061\061";"\074\054\043\099\104\068\098\080\107\050\061\061";"\103\056\075\120\111\051\085\052\071\102\088\068\105\068\074\073\052\071\073\102\049\090\114\066\068\043\114\061";"\054\068\098\106\083\048\117\081\087\049\073\109\054\077\114\061";"\079\043\100\098\055\050\043\049\066\081\122\100\102\117\065\061";"\097\105\116\061";"\103\119\101\088\089\048\104\072\115\119\075\061","\107\084\116\061";"\075\075\075\061","\057\115\055\086\048\050\116\077\047\048\109\054\085\057\070\061","\101\084\100\077\122\072\075\061";"\113\055\065\061","\052\079\098\075\071\068\074\114\057\099\085\088\114\051\071\077","\071\122\078\065\071\089\117\047\077\053\081\075\114\057\052\061","\055\109\075\061";"\057\080\112\061","\082\120\053\099\084\073\109\053\108\048\072\066\121\106\118\075","\079\051\120\074\057\070\061\061","\069\078\076\119\098\076\050\122\043\112\053\083\079\090\085\049\104\076\100\098\075\048\070\079\112\097\068\111\085\097\099\052\088\069\072\098\048\077\099\088\052\053\053\117\113\074\049\051\055\114\061\061","\109\090\111\068\097\070\061\061";"\075\043\069\078\101\098\048\078\048\069\085\116\051\066\047\070";"\057\057\075\050\049\054\074\088\110\070\061\061","\049\077\086\061";"\109\067\072\113\115\080\099\067\100\052\082\067","\083\114\061\061";"\110\066\061\061";"\076\120\085\043\083\098\090\111\075\082\076\081\054\066\056\061","\118\103\065\061";"\098\048\109\119\057\110\116\090\118\113\048\084\049\116\056\061";"\072\083\116\066\066\090\110\057\055\050\061\061","\105\103\043\061";"\043\110\089\114\106\097\069\054\102\121\067\085\076\066\061\061";"\066\050\083\072\079\050\061\061";"\100\110\108\117";"\051\101\065\061","\101\114\075\061","\104\053\103\089\102\056\055\083\075\112\114\061","\049\077\113\061";"\101\099\073\110\120\114\097\043\104\069\069\069\080\055\066\061","\098\118\075\061","\122\090\114\061";"\086\104\097\076\070\076\075\054\103\050\061\061";"\103\065\070\083\066\083\102\073\118\090\115\115\084\115\114\061","\102\104\067\067\121\102\116\056\110\066\061\061";"\052\054\053\085\051\054\107\116\090\110\070\061","\102\071\052\068","\087\115\053\119\081\071\104\082\104\109\098\112\118\070\061\061","\120\073\057\084";"\049\099\116\061","\106\115\050\061";"\103\071\112\061","\056\115\113\061","\079\083\082\081\082\117\085\055";"\075\050\056\061";"\043\099\079\122\057\101\080\100\121\114\061\061";"\097\099\069\052";"\081\087\117\084\048\087\103\056\103\089\054\106\070\104\116\061";"\054\052\080\114\051\121\103\100\057\075\099\084\075\066\061\061";"\076\072\087\098\118\114\061\061","\052\076\052\054\056\105\075\061";"\049\043\052\061";"\074\087\114\108\067\105\049\061","\097\075\053\110\070\073\073\049\105\050\061\061","\115\050\112\061";"\106\121\065\061";"\079\052\066\061","\082\075\113\061";"\076\080\065\061";"\085\078\054\052\098\119\116\107\082\050\068\105\052\048\117\061","\090\103\107\076\108\075\043\099","\113\075\105\097","\113\122\103\099\104\043\051\043\055\073\073\090\109\111\113\061";"\072\112\122\066\043\051\098\080\087\119\079\122\052\101\113\073","\082\119\114\061","\071\120\113\119\101\101\088\111\087\073\120\101\103\108\079\089\087\085\049\061";"\100\105\088\075\055\066\061\061","\103\056\071\098\043\073\110\101\079\079\071\051\114\073\098\074\043\050\061\061";"\066\100\052\111\102\102\066\097\104\050\061\061","\050\073\120\049\052\052\069\084\113\107\083\085\079\121\113\061";"\107\118\121\057\105\043\069\115\110\052\112\061","\101\050\061\061";"\078\070\055\055\047\067\116\100\105\082\106\114\116\089\081\056\054\105\080\078\073\070\061\061","\067\097\122\069\109\069\115\069\117\050\061\061","\079\104\078\082\079\075\111\089\085\100\075\061";"\067\115\079\076\072\084\088\049\057\115\071\101\105\108\079\111","\086\111\116\061","\098\086\105\089","\100\103\116\061";"\086\079\118\087\074\099\117\061";"\116\097\117\061";"\066\109\065\061","\048\118\054\053\057\114\061\061";"\077\072\070\090\102\079\071\098\055\047\069\074\099\114\061\061";"\077\111\070\061","\073\053\070\099\081\102\102\098\112\119\117\061","\050\070\061\061","\082\051\073\119";"\104\084\087\061","\065\104\081\085\106\082\055\066\047\114\061\061","\106\107\107\103\081\106\107\082\073\078\100\120\100\117\117\061";"\107\109\118\120";"\071\052\054\076\103\122\101\119\050\084\117\113\099\083\100\118\049\051\076\051","\117\121\097\070\049\113\048\080\110\088\088\083\065\070\061\061";"\052\073\115\065\086\054\114\053\089\108\067\089\053\083\097\057\098\105\071\056\090\098\076\090\122\051\113\049\121\083\052\061";"\065\089\056\087";"\121\119\117\061";"\097\104\043\061";"\043\108\103\098\107\108\066\061","\048\065\087\061","\056\073\049\061";"\114\051\083\090\107\099\079\076\057\070\061\061","\103\047\084\106\101\109\048\071\071\078\119\112\053\097\070\061";"\067\099\086\089\073\055\088\087\049\070\061\061","\102\065\082\087\050\114\061\061";"\097\048\100\113\050\083\118\057\121\066\112\108\104\082\080\109\120\120\078\098\088\075\083\050\112\048\083\076\098\078\054\078\078\099\054\083\055\097\119\065\122\079\119\116\052\083\065\108\118\066\061\061";"\073\111\052\061","\088\090\066\117\118\084\057\090\119\089\053\119\107\114\061\061","\102\076\065\089\099\082\104\087\052\070\061\061";"\053\065\112\061";"\048\065\049\061","\121\079\065\061","\084\078\114\061","\074\098\049\061";"\053\111\108\108\070\050\089\121\102\047\119\114\070\076\050\068\111\117\051\047\088\050\047\090\099\105\082\073\072\068\052\100\079\051\101\088\066\105\084\083\117\121\110\081\055\114\106\075\104\082\049\074\048\077\107\084\083\055\085\112\055\115\052\061","\085\079\049\061";"\066\080\113\061","\110\070\114\072","\074\043\072\052\097\122\086\102\110\067\054\072\104\053\109\043\048\055\052\061";"\114\101\085\079\114\068\121\098\101\101\083\119\067\056\120\090\077\114\061\061";"\114\053\120\050\107\117\074\111\101\103\115\099\121\066\061\061";"\077\121\083\076";"\116\100\100\112","\053\043\080\085\065\114\070\061";"\074\086\101\080\079\110\107\084\084\086\089\099\056\115\075\061","\119\115\050\061";"\103\099\116\061","\099\076\100\098\072\089\047\117\069\043\080\078\083\112\112\061","\110\086\087\121\099\051\047\065\056\081\086\047\080\065\121\054\057\072\104\107\103\114\061\061";"\051\116\065\061","\079\099\079\076\057\108\083\100\052\066\061\061","\082\050\043\061";"\073\110\103\049";"\110\098\071\083\070\055\104\083\069\090\068\079\114\066\061\061","\103\101\047\116\122\050\077\119\066\043\078\121\085\100\066\049";"\088\119\047\089\051\120\054\070\071\083\122\052";"\097\055\104\076\101\056\114\061";"\052\086\106\121\089\070\073\070\106\108\117\061","\071\051\079\112\078\101\083\085\043\051\113\061";"\071\107\056\121\086\066\111\054\113\082\109\121\115\102\104\117";"\110\084\103\074\068\070\114\101\056\114\061\061","\101\070\047\066";"\102\116\098\085\101\108\098\072","\098\051\114\077\082\122\078\066\098\065\112\100\089\075\113\105\077\052\043\061","\065\102\112\087";"\082\071\085\120\072\097\043\085\056\116\057\114\118\117\070\047\107\077\087\119","\047\120\102\067\083\075\098\043\087\070\065\114","\069\049\113\061";"\108\108\049\061";"\110\111\070\080\055\098\105\051\065\053\099\090\111\068\071\107\079\117\072\103\115\098\070\081\081\082\104\112\075\076\116\061";"\066\047\106\090\067\111\057\121\057\066\061\061";"\073\067\051\088\119\066\104\116\072\054\075\061","\078\101\050\061","\072\071\113\047","\088\083\088\081\050\080\120\085\116\066\061\061";"\049\066\061\061";"\066\048\043\090","\104\051\065\043\105\055\113\073\115\065\121\048\056\079\100\080\100\081\122\103\090\050\061\061","\047\086\080\114\083\110\106\081\090\106\106\114\113\050\061\061","\117\081\052\114\109\097\082\118\099\070\061\061";"\057\106\114\083\113\079\055\081\106\066\070\113\114\114\061\061";"\099\071\043\047\081\090\120\109\112\052\049\061","\055\088\084\077\047\050\061\061";"\043\113\066\112\079\120\120\112\121\115\080\056\103\099\071\100\077\047\049\061","\087\117\043\053\054\120\070\121\050\112\086\088\043\081\084\070";"\108\089\043\101\102\086\090\119\122\102\073\077\100\083\100\052\065\072\071\075";"\116\085\057\110\072\079\050\089\103\076\068\105\068\080\087\079\098\090\100\075\122\079\085\106\065\103\078\118\050\066\061\061";"\107\086\077\114\078\077\043\065\112\114\061\061";"\057\101\054\066\087\101\103\104";"\114\051\083\075\107\073\116\119";"\116\088\116\047\122\098\070\055\078\097\051\106\051\050\061\061","\089\050\120\070\090\116\112\067\115\079\114\069";"\114\069\100\051","\104\102\087\061";"\056\077\089\052\084\107\051\066\085\088\122\120\053\048\056\061";"\107\119\088\079\057\084\080\088\057\113\116\117\079\056\122\098","\073\071\081\090";"\081\054\086\113\121\071\116\047\103\051\112\075\074\104\098\120\066\076\109\117\115\074\081\083\073\065\069\085\072\070\061\061","\065\119\104\090\074\120\083\047\114\075\101\118\099\104\084\110\052\075\115\121\080\090\088\115\053\066\056\114\100\083\086\061";"\098\102\097\078\109\100\115\088\098\071\082\077";"\086\114\111\049\050\100\085\076\052\068\070\061";"\071\121\099\121\102\114\105\043";"\072\078\103\053\069\057\107\075\056\070\061\061","\085\085\057\118","\113\089\043\061","\085\066\071\088\117\051\057\076\071\100\114\043\083\090\120\082\097\102\055\076\078\070\061\061","\122\082\049\061";"\055\106\052\061","\112\088\070\105\111\107\122\070\079\101\070\078\072\119\075\078\065\048\075\056\104\050\061\061","\080\057\112\043";"\119\083\072\053\073\073\115\069\090\107\049\118\110\107\053\107\110\115\106\098";"\109\115\107\110\087\087\082\122\099\090\050\061";"\053\121\111\053","\047\043\086\061";"\043\079\075\061";"\101\089\087\061";"\055\070\119\056","\119\117\071\078\075\050\061\061";"\120\051\122\115\118\073\051\078\057\116\047\121\119\081\089\118\111\053\110\065\105\100\081\089\079\112\043\118\103\089\122\117\113\089\057\065\077\081\119\086\067\108\078\066\089\119\068\086\068\066\061\061";"\051\072\070\061";"\073\065\086\061";"\053\083\121\086\081\047\082\052\113\050\061\061";"\056\112\047\053\076\114\061\061","\104\113\083\090";"\053\113\049\081\077\087\070\113\108\090\070\061","\080\054\084\078","\085\049\116\061";"\087\043\112\085\053\114\061\061","\087\106\054\116\047\122\089\050\107\099\056\111\074\089\097\089\054\078\068\102\109\066\075\100\083\082\087\061";"\107\078\051\081";"\109\057\070\061";"\057\120\117\061","\050\071\111\104";"\111\050\076\078\048\106\103\113\065\120\087\085\113\043\052\061","\085\074\070\087\106\050\061\061","\052\051\109\120\105\069\098\071\082\114\061\061";"\110\050\061\061","\107\069\117\061","\065\071\086\061";"\068\101\114\098\066\079\075\114\105\097\055\109\104\051\089\043\075\055\066\105","\057\070\061\061","\057\051\112\061";"\086\083\116\053\054\087\110\067\043\097\065\078";"\107\050\043\061","\077\082\070\075\084\110\103\050\103\080\116\066\116\068\056\061";"\047\119\117\107\102\116\116\121\056\113\050\111\107\056\065\074";"\053\068\113\110\048\116\047\085\110\103\111\101\113\050\061\061","\078\103\074\069\105\074\047\114";"\103\100\097\080\106\049\112\061";"\071\051\079\112\071\108\079\119\087\051\079\090\121\108\120\090\057\047\052\061";"\076\088\116\121\099\067\083\117\084\115\079\057","\077\115\103\056\121\115\103\076\121\101\054\049\087\101\054\112\078\051\087\061","\107\050\110\107\068\083\113\101\080\050\061\061";"\053\055\072\098\113\049\119\080\113\122\101\107\116\067\117\114";"\077\111\078\107\067\051\103\098\083\050\061\061","\052\111\056\061","\103\052\117\061","\065\120\075\075\065\053\117\119\065\056\121\118","\080\076\052\070\075\120\119\056\119\083\050\047\071\070\061\061","\107\066\061\061";"\077\101\054\066\057\115\071\116\107\051\122\049\114\099\079\068\072\101\117\061","\071\051\079\112\113\051\079\100\057\099\080\076\121\114\061\061","\098\057\055\090","\080\068\057\089\101\071\113\100\118\066\061\061","\114\117\118\100\103\107\114\112\114\084\074\077\081\066\061\061","\097\111\086\061";"\088\070\061\061";"\105\043\075\074\055\102\099\099\047\073\081\054\056\090\086\061","\112\054\067\083\103\118\118\078\052\097\071\048";"\073\106\050\100\112\121\106\086\076\069\087\110\051\050\061\061";"\103\066\100\116\069\066\077\100\107\120\113\061";"\088\057\055\089\101\068\075\082\088\086\104\079";"\115\052\043\087\090\103\101\067\089\071\104\103\083\116\066\061";"\074\048\075\061","\078\048\066\070","\087\113\099\043\105\070\061\061","\086\072\056\100\050\077\054\115\114\057\066\061","\057\074\120\051\071\057\065\061","\108\066\061\061";"\068\043\075\061","\117\100\049\061","\114\118\112\076\057\097\117\043\051\117\068\049\070\112\114\061","\086\067\119\078\077\105\047\097\111\074\050\104\121\117\113\061","\090\074\100\087\043\073\048\119\065\111\084\089\107\073\119\105\107\074\099\084","\070\067\070\061","\056\051\101\112\048\057\071\101\067\043\075\108\054\089\043\061";"\077\105\050\061","\052\056\050\081\075\053\103\089\113\073\115\097\087\116\090\099";"\056\054\110\049\048\050\061\061","\111\072\114\061","\071\107\081\067\055\090\116\101\084\121\057\109\120\119\106\114\112\120\098\122\099\051\051\111\072\047\079\103\047\050\061\061","\105\085\075\061","\109\101\070\061";"\086\052\066\065\089\090\069\051\101\075\049\090\076\107\076\118\078\050\086\107\113\109\115\077\099\112\069\116\104\114\050\061";"\081\082\052\061","\057\110\048\070";"\043\099\120\090\121\108\083\082","\071\106\082\111\121\120\065\047\043\104\083\100\071\057\087\088","\068\122\053\090\115\117\051\048\118\073\121\055","\087\065\055\107\081\057\112\055\070\050\061\061";"\107\119\080\090\043\120\079\098\079\079\110\071\043\112\088\080\071\051\049\061","\071\070\061\061";"\070\090\057\076";"\090\068\100\067\109\068\081\073";"\097\056\080\083\079\065\102\107\065\043\048\106\049\080\077\072\098\090\077\085\049\080\068\089\054\047\050\061","\076\075\065\101\075\088\053\051\086\053\084\067\086\043\117\061";"\069\072\113\061","\086\121\056\061";"\112\112\112\061","\079\097\065\061","\076\088\056\073\118\098\043\043\043\052\083\098\070\070\061\061";"\107\099\070\061";"\080\114\110\080";"\057\108\083\090\057\101\085\118\121\115\116\061","\099\070\114\061";"\120\065\090\076\122\089\073\103\080\052\050\061";"\052\070\061\061";"\072\057\054\099\112\082\103\113\112\066\061\061";"\105\073\097\121\117\110\055\102\112\098\086\074\100\053\050\043\080\073\112\043\077\055\115\107\113\070\055\119\099\050\106\048\074\
+-- // GUI TO LUA \\ --
+
+-- // INSTANCES: 54 | SCRIPTS: 6 | MODULES: 0 \\ --
+
+local UI = {}
+
+-- // StarterGui.ScreenGui \\ --
+UI["1"] = Instance.new("ScreenGui", game:GetService("Players").LocalPlayer:WaitForChild("PlayerGui"))
+UI["1"]["ZIndexBehavior"] = Enum.ZIndexBehavior.Sibling
+
+-- // StarterGui.ScreenGui.Frame \\ --
+UI["2"] = Instance.new("Frame", UI["1"])
+UI["2"]["Active"] = true
+UI["2"]["BorderSizePixel"] = 0
+UI["2"]["BackgroundColor3"] = Color3.fromRGB(168, 191, 174)
+UI["2"]["Size"] = UDim2.new(0.35597, 0, 0.45185, 0)
+UI["2"]["Position"] = UDim2.new(0.34922, 0, 0.47658, 0)
+UI["2"]["BorderColor3"] = Color3.fromRGB(0, 0, 0)
+UI["2"]["BackgroundTransparency"] = 0.1
+
+-- // StarterGui.ScreenGui.Frame.UICorner \\ --
+UI["3"] = Instance.new("UICorner", UI["2"])
+UI["3"]["CornerRadius"] = UDim.new(0, 15)
+
+-- // StarterGui.ScreenGui.Frame.UIGradient \\ --
+UI["4"] = Instance.new("UIGradient", UI["2"])
+UI["4"]["Color"] = ColorSequence.new{ColorSequenceKeypoint.new(0.000, Color3.fromRGB(25, 55, 4)),ColorSequenceKeypoint.new(1.000, Color3.fromRGB(2, 3, 2))}
+
+-- // StarterGui.ScreenGui.Frame.TextLabel \\ --
+UI["5"] = Instance.new("TextLabel", UI["2"])
+UI["5"]["TextWrapped"] = true
+UI["5"]["BorderSizePixel"] = 0
+UI["5"]["TextXAlignment"] = Enum.TextXAlignment.Left
+UI["5"]["TextScaled"] = true
+UI["5"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255)
+UI["5"]["TextSize"] = 14
+UI["5"]["FontFace"] = Font.new([[rbxasset://fonts/families/Jura.json]], Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+UI["5"]["TextColor3"] = Color3.fromRGB(255, 255, 255)
+UI["5"]["BackgroundTransparency"] = 1
+UI["5"]["Size"] = UDim2.new(0.14947, 0, 0.06204, 0)
+UI["5"]["BorderColor3"] = Color3.fromRGB(0, 0, 0)
+UI["5"]["Text"] = [[Skibidi Hub]]
+UI["5"]["Position"] = UDim2.new(0.04842, 0, 0.06569, 0)
+
+-- // StarterGui.ScreenGui.Frame.TextLabel.UIAspectRatioConstraint \\ --
+UI["6"] = Instance.new("UIAspectRatioConstraint", UI["5"])
+UI["6"]["AspectRatio"] = 4.17647
+
+-- // StarterGui.ScreenGui.Frame.TextLabel.UITextSizeConstraint \\ --
+UI["7"] = Instance.new("UITextSizeConstraint", UI["5"])
+UI["7"]["MaxTextSize"] = 14
+
+-- // StarterGui.ScreenGui.Frame.Frame \\ --
+UI["8"] = Instance.new("Frame", UI["2"])
+UI["8"]["BorderSizePixel"] = 0
+UI["8"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255)
+UI["8"]["Size"] = UDim2.new(0.21053, 0, 0.09489, 0)
+UI["8"]["Position"] = UDim2.new(0.03368, 0, 0.19708, 0)
+UI["8"]["BorderColor3"] = Color3.fromRGB(0, 0, 0)
+UI["8"]["BackgroundTransparency"] = 0.5
+
+-- // StarterGui.ScreenGui.Frame.Frame.UICorner \\ --
+UI["9"] = Instance.new("UICorner", UI["8"])
+UI["9"]["CornerRadius"] = UDim.new(0, 100)
+
+-- // StarterGui.ScreenGui.Frame.Frame.UIGradient \\ --
+UI["a"] = Instance.new("UIGradient", UI["8"])
+UI["a"]["Color"] = ColorSequence.new{ColorSequenceKeypoint.new(0.000, Color3.fromRGB(24, 71, 20)),ColorSequenceKeypoint.new(1.000, Color3.fromRGB(136, 255, 62))}
+
+-- // StarterGui.ScreenGui.Frame.Frame.TextLabel \\ --
+UI["b"] = Instance.new("TextLabel", UI["8"])
+UI["b"]["TextWrapped"] = true
+UI["b"]["BorderSizePixel"] = 0
+UI["b"]["TextXAlignment"] = Enum.TextXAlignment.Left
+UI["b"]["TextScaled"] = true
+UI["b"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255)
+UI["b"]["TextSize"] = 14
+UI["b"]["FontFace"] = Font.new([[rbxasset://fonts/families/Jura.json]], Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+UI["b"]["TextColor3"] = Color3.fromRGB(255, 255, 255)
+UI["b"]["BackgroundTransparency"] = 1
+UI["b"]["Size"] = UDim2.new(0.71, 0, 0.42308, 0)
+UI["b"]["BorderColor3"] = Color3.fromRGB(0, 0, 0)
+UI["b"]["Text"] = [[Main]]
+UI["b"]["Position"] = UDim2.new(0.14368, 0, 0.32762, 0)
+
+-- // StarterGui.ScreenGui.Frame.Frame.TextLabel.UIAspectRatioConstraint \\ --
+UI["c"] = Instance.new("UIAspectRatioConstraint", UI["b"])
+UI["c"]["AspectRatio"] = 6.45455
+
+-- // StarterGui.ScreenGui.Frame.Frame.TextLabel.UITextSizeConstraint \\ --
+UI["d"] = Instance.new("UITextSizeConstraint", UI["b"])
+UI["d"]["MaxTextSize"] = 10
+
+-- // StarterGui.ScreenGui.Frame.Frame.UIAspectRatioConstraint \\ --
+UI["e"] = Instance.new("UIAspectRatioConstraint", UI["8"])
+UI["e"]["AspectRatio"] = 3.84615
+
+-- // StarterGui.ScreenGui.Frame.TextLabel \\ --
+UI["f"] = Instance.new("TextLabel", UI["2"])
+UI["f"]["TextWrapped"] = true
+UI["f"]["BorderSizePixel"] = 0
+UI["f"]["TextXAlignment"] = Enum.TextXAlignment.Left
+UI["f"]["TextScaled"] = true
+UI["f"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255)
+UI["f"]["TextSize"] = 14
+UI["f"]["FontFace"] = Font.new([[rbxasset://fonts/families/Jura.json]], Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+UI["f"]["TextColor3"] = Color3.fromRGB(255, 255, 255)
+UI["f"]["BackgroundTransparency"] = 1
+UI["f"]["Size"] = UDim2.new(0.27158, 0, 0.05839, 0)
+UI["f"]["BorderColor3"] = Color3.fromRGB(0, 0, 0)
+UI["f"]["Text"] = [[-Main-]]
+UI["f"]["Position"] = UDim2.new(0.32401, 0, 0.18613, 0)
+
+-- // StarterGui.ScreenGui.Frame.TextLabel.UIAspectRatioConstraint \\ --
+UI["10"] = Instance.new("UIAspectRatioConstraint", UI["f"])
+UI["10"]["AspectRatio"] = 8.0625
+
+-- // StarterGui.ScreenGui.Frame.TextLabel.UITextSizeConstraint \\ --
+UI["11"] = Instance.new("UITextSizeConstraint", UI["f"])
+UI["11"]["MaxTextSize"] = 16
+
+-- // StarterGui.ScreenGui.Frame.TextButton \\ --
+UI["12"] = Instance.new("TextButton", UI["2"])
+UI["12"]["TextWrapped"] = true
+UI["12"]["BorderSizePixel"] = 0
+UI["12"]["TextXAlignment"] = Enum.TextXAlignment.Left
+UI["12"]["TextSize"] = 14
+UI["12"]["TextColor3"] = Color3.fromRGB(255, 255, 255)
+UI["12"]["TextScaled"] = true
+UI["12"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255)
+UI["12"]["FontFace"] = Font.new([[rbxasset://fonts/families/Jura.json]], Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+UI["12"]["Size"] = UDim2.new(0.38105, 0, 0.05474, 0)
+UI["12"]["BackgroundTransparency"] = 1
+UI["12"]["BorderColor3"] = Color3.fromRGB(0, 0, 0)
+UI["12"]["Text"] = [[Scam Value]]
+UI["12"]["Position"] = UDim2.new(0.32401, 0, 0.29415, 0)
+
+-- // StarterGui.ScreenGui.Frame.TextButton.LocalScript \\ --
+UI["13"] = Instance.new("LocalScript", UI["12"])
+
+
+-- // StarterGui.ScreenGui.Frame.TextButton.UIAspectRatioConstraint \\ --
+UI["14"] = Instance.new("UIAspectRatioConstraint", UI["12"])
+UI["14"]["AspectRatio"] = 12.06667
+
+-- // StarterGui.ScreenGui.Frame.TextButton.UITextSizeConstraint \\ --
+UI["15"] = Instance.new("UITextSizeConstraint", UI["12"])
+UI["15"]["MaxTextSize"] = 14
+
+-- // StarterGui.ScreenGui.Frame.TextButton \\ --
+UI["16"] = Instance.new("TextButton", UI["2"])
+UI["16"]["TextWrapped"] = true
+UI["16"]["BorderSizePixel"] = 0
+UI["16"]["TextXAlignment"] = Enum.TextXAlignment.Left
+UI["16"]["TextSize"] = 14
+UI["16"]["TextColor3"] = Color3.fromRGB(86, 86, 86)
+UI["16"]["TextScaled"] = true
+UI["16"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255)
+UI["16"]["FontFace"] = Font.new([[rbxasset://fonts/families/Jura.json]], Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+UI["16"]["Size"] = UDim2.new(0.59158, 0, 0.0365, 0)
+UI["16"]["BackgroundTransparency"] = 1
+UI["16"]["BorderColor3"] = Color3.fromRGB(0, 0, 0)
+UI["16"]["Text"] = [[Hold A Fruit And Then Check Value When u Press Scam Value]]
+UI["16"]["Position"] = UDim2.new(0.32211, 0, 0.35115, 0)
+
+-- // StarterGui.ScreenGui.Frame.TextButton.UIAspectRatioConstraint \\ --
+UI["17"] = Instance.new("UIAspectRatioConstraint", UI["16"])
+UI["17"]["AspectRatio"] = 28.1
+
+-- // StarterGui.ScreenGui.Frame.TextButton.UITextSizeConstraint \\ --
+UI["18"] = Instance.new("UITextSizeConstraint", UI["16"])
+UI["18"]["MaxTextSize"] = 9
+
+-- // StarterGui.ScreenGui.Frame.TextButton \\ --
+UI["19"] = Instance.new("TextButton", UI["2"])
+UI["19"]["TextWrapped"] = true
+UI["19"]["BorderSizePixel"] = 0
+UI["19"]["TextXAlignment"] = Enum.TextXAlignment.Left
+UI["19"]["TextSize"] = 14
+UI["19"]["TextColor3"] = Color3.fromRGB(86, 86, 86)
+UI["19"]["TextScaled"] = true
+UI["19"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255)
+UI["19"]["FontFace"] = Font.new([[rbxasset://fonts/families/Jura.json]], Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+UI["19"]["Size"] = UDim2.new(0.59158, 0, 0.0365, 0)
+UI["19"]["BackgroundTransparency"] = 1
+UI["19"]["BorderColor3"] = Color3.fromRGB(0, 0, 0)
+UI["19"]["Text"] = [[Gets INF Recall Wrench Uses]]
+UI["19"]["Position"] = UDim2.new(0.32211, 0, 0.48917, 0)
+
+-- // StarterGui.ScreenGui.Frame.TextButton.UIAspectRatioConstraint \\ --
+UI["1a"] = Instance.new("UIAspectRatioConstraint", UI["19"])
+UI["1a"]["AspectRatio"] = 28.1
+
+-- // StarterGui.ScreenGui.Frame.TextButton.UITextSizeConstraint \\ --
+UI["1b"] = Instance.new("UITextSizeConstraint", UI["19"])
+UI["1b"]["MaxTextSize"] = 9
+
+-- // StarterGui.ScreenGui.Frame.TextButton \\ --
+UI["1c"] = Instance.new("TextButton", UI["2"])
+UI["1c"]["TextWrapped"] = true
+UI["1c"]["BorderSizePixel"] = 0
+UI["1c"]["TextXAlignment"] = Enum.TextXAlignment.Left
+UI["1c"]["TextSize"] = 14
+UI["1c"]["TextColor3"] = Color3.fromRGB(255, 255, 255)
+UI["1c"]["TextScaled"] = true
+UI["1c"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255)
+UI["1c"]["FontFace"] = Font.new([[rbxasset://fonts/families/Jura.json]], Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+UI["1c"]["Size"] = UDim2.new(0.38105, 0, 0.05474, 0)
+UI["1c"]["BackgroundTransparency"] = 1
+UI["1c"]["BorderColor3"] = Color3.fromRGB(0, 0, 0)
+UI["1c"]["Text"] = [[Inf Recall Wrench]]
+UI["1c"]["Position"] = UDim2.new(0.32401, 0, 0.43217, 0)
+
+-- // StarterGui.ScreenGui.Frame.TextButton.LocalScript \\ --
+UI["1d"] = Instance.new("LocalScript", UI["1c"])
+
+
+-- // StarterGui.ScreenGui.Frame.TextButton.UIAspectRatioConstraint \\ --
+UI["1e"] = Instance.new("UIAspectRatioConstraint", UI["1c"])
+UI["1e"]["AspectRatio"] = 12.06667
+
+-- // StarterGui.ScreenGui.Frame.TextButton.UITextSizeConstraint \\ --
+UI["1f"] = Instance.new("UITextSizeConstraint", UI["1c"])
+UI["1f"]["MaxTextSize"] = 14
+
+-- // StarterGui.ScreenGui.Frame.TextButton \\ --
+UI["20"] = Instance.new("TextButton", UI["2"])
+UI["20"]["TextWrapped"] = true
+UI["20"]["BorderSizePixel"] = 0
+UI["20"]["TextXAlignment"] = Enum.TextXAlignment.Left
+UI["20"]["TextSize"] = 14
+UI["20"]["TextColor3"] = Color3.fromRGB(86, 86, 86)
+UI["20"]["TextScaled"] = true
+UI["20"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255)
+UI["20"]["FontFace"] = Font.new([[rbxasset://fonts/families/Jura.json]], Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+UI["20"]["Size"] = UDim2.new(0.59158, 0, 0.0365, 0)
+UI["20"]["BackgroundTransparency"] = 1
+UI["20"]["BorderColor3"] = Color3.fromRGB(0, 0, 0)
+UI["20"]["Text"] = [[Convert Seed Ur Holding To Cb]]
+UI["20"]["Position"] = UDim2.new(0.32211, 0, 0.62719, 0)
+
+-- // StarterGui.ScreenGui.Frame.TextButton.UIAspectRatioConstraint \\ --
+UI["21"] = Instance.new("UIAspectRatioConstraint", UI["20"])
+UI["21"]["AspectRatio"] = 28.1
+
+-- // StarterGui.ScreenGui.Frame.TextButton.UITextSizeConstraint \\ --
+UI["22"] = Instance.new("UITextSizeConstraint", UI["20"])
+UI["22"]["MaxTextSize"] = 9
+
+-- // StarterGui.ScreenGui.Frame.TextButton \\ --
+UI["23"] = Instance.new("TextButton", UI["2"])
+UI["23"]["TextWrapped"] = true
+UI["23"]["BorderSizePixel"] = 0
+UI["23"]["TextXAlignment"] = Enum.TextXAlignment.Left
+UI["23"]["TextSize"] = 14
+UI["23"]["TextColor3"] = Color3.fromRGB(255, 255, 255)
+UI["23"]["TextScaled"] = true
+UI["23"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255)
+UI["23"]["FontFace"] = Font.new([[rbxasset://fonts/families/Jura.json]], Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+UI["23"]["Size"] = UDim2.new(0.38105, 0, 0.05474, 0)
+UI["23"]["BackgroundTransparency"] = 1
+UI["23"]["BorderColor3"] = Color3.fromRGB(0, 0, 0)
+UI["23"]["Text"] = [[Convert Seed]]
+UI["23"]["Position"] = UDim2.new(0.32401, 0, 0.57019, 0)
+
+-- // StarterGui.ScreenGui.Frame.TextButton.LocalScript \\ --
+UI["24"] = Instance.new("LocalScript", UI["23"])
+
+
+-- // StarterGui.ScreenGui.Frame.TextButton.UIAspectRatioConstraint \\ --
+UI["25"] = Instance.new("UIAspectRatioConstraint", UI["23"])
+UI["25"]["AspectRatio"] = 12.06667
+
+-- // StarterGui.ScreenGui.Frame.TextButton.UITextSizeConstraint \\ --
+UI["26"] = Instance.new("UITextSizeConstraint", UI["23"])
+UI["26"]["MaxTextSize"] = 14
+
+-- // StarterGui.ScreenGui.Frame.TextButton \\ --
+UI["27"] = Instance.new("TextButton", UI["2"])
+UI["27"]["TextWrapped"] = true
+UI["27"]["BorderSizePixel"] = 0
+UI["27"]["TextXAlignment"] = Enum.TextXAlignment.Left
+UI["27"]["TextSize"] = 14
+UI["27"]["TextColor3"] = Color3.fromRGB(255, 255, 255)
+UI["27"]["TextScaled"] = true
+UI["27"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255)
+UI["27"]["FontFace"] = Font.new([[rbxasset://fonts/families/Jura.json]], Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+UI["27"]["Size"] = UDim2.new(0.38105, 0, 0.05474, 0)
+UI["27"]["BackgroundTransparency"] = 1
+UI["27"]["BorderColor3"] = Color3.fromRGB(0, 0, 0)
+UI["27"]["Text"] = [[Chocolate Sprinkler [Client]]
+UI["27"]["Position"] = UDim2.new(0.32401, 0, 0.71421, 0)
+
+-- // StarterGui.ScreenGui.Frame.TextButton.LocalScript \\ --
+UI["28"] = Instance.new("LocalScript", UI["27"])
+
+
+-- // StarterGui.ScreenGui.Frame.TextButton.UIAspectRatioConstraint \\ --
+UI["29"] = Instance.new("UIAspectRatioConstraint", UI["27"])
+UI["29"]["AspectRatio"] = 12.06667
+
+-- // StarterGui.ScreenGui.Frame.TextButton.UITextSizeConstraint \\ --
+UI["2a"] = Instance.new("UITextSizeConstraint", UI["27"])
+UI["2a"]["MaxTextSize"] = 14
+
+-- // StarterGui.ScreenGui.Frame.TextButton \\ --
+UI["2b"] = Instance.new("TextButton", UI["2"])
+UI["2b"]["TextWrapped"] = true
+UI["2b"]["BorderSizePixel"] = 0
+UI["2b"]["TextXAlignment"] = Enum.TextXAlignment.Left
+UI["2b"]["TextSize"] = 14
+UI["2b"]["TextColor3"] = Color3.fromRGB(86, 86, 86)
+UI["2b"]["TextScaled"] = true
+UI["2b"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255)
+UI["2b"]["FontFace"] = Font.new([[rbxasset://fonts/families/Jura.json]], Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+UI["2b"]["Size"] = UDim2.new(0.59158, 0, 0.0365, 0)
+UI["2b"]["BackgroundTransparency"] = 1
+UI["2b"]["BorderColor3"] = Color3.fromRGB(0, 0, 0)
+UI["2b"]["Text"] = [[Insta test only]]
+UI["2b"]["Position"] = UDim2.new(0.32211, 0, 0.77121, 0)
+
+-- // StarterGui.ScreenGui.Frame.TextButton.UIAspectRatioConstraint \\ --
+UI["2c"] = Instance.new("UIAspectRatioConstraint", UI["2b"])
+UI["2c"]["AspectRatio"] = 28.1
+
+-- // StarterGui.ScreenGui.Frame.TextButton.UITextSizeConstraint \\ --
+UI["2d"] = Instance.new("UITextSizeConstraint", UI["2b"])
+UI["2d"]["MaxTextSize"] = 9
+
+-- // StarterGui.ScreenGui.Frame.TextButton \\ --
+UI["2e"] = Instance.new("TextButton", UI["2"])
+UI["2e"]["TextWrapped"] = true
+UI["2e"]["BorderSizePixel"] = 0
+UI["2e"]["TextXAlignment"] = Enum.TextXAlignment.Left
+UI["2e"]["TextSize"] = 14
+UI["2e"]["TextColor3"] = Color3.fromRGB(86, 86, 86)
+UI["2e"]["TextScaled"] = true
+UI["2e"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255)
+UI["2e"]["FontFace"] = Font.new([[rbxasset://fonts/families/Jura.json]], Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+UI["2e"]["Size"] = UDim2.new(0.65263, 0, 0.04745, 0)
+UI["2e"]["BackgroundTransparency"] = 1
+UI["2e"]["BorderColor3"] = Color3.fromRGB(0, 0, 0)
+UI["2e"]["Text"] = [[Server ID]]
+UI["2e"]["Position"] = UDim2.new(0.03368, 0, 0.87226, 0)
+
+-- // StarterGui.ScreenGui.Frame.TextButton.UIAspectRatioConstraint \\ --
+UI["2f"] = Instance.new("UIAspectRatioConstraint", UI["2e"])
+UI["2f"]["AspectRatio"] = 23.84615
+
+-- // StarterGui.ScreenGui.Frame.TextButton.UITextSizeConstraint \\ --
+UI["30"] = Instance.new("UITextSizeConstraint", UI["2e"])
+UI["30"]["MaxTextSize"] = 12
+
+-- // StarterGui.ScreenGui.Frame.TextButton \\ --
+UI["31"] = Instance.new("TextButton", UI["2"])
+UI["31"]["TextWrapped"] = true
+UI["31"]["BorderSizePixel"] = 0
+UI["31"]["TextXAlignment"] = Enum.TextXAlignment.Left
+UI["31"]["TextSize"] = 14
+UI["31"]["TextColor3"] = Color3.fromRGB(151, 151, 151)
+UI["31"]["TextScaled"] = true
+UI["31"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255)
+UI["31"]["FontFace"] = Font.new([[rbxasset://fonts/families/Jura.json]], Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+UI["31"]["Size"] = UDim2.new(0.65263, 0, 0.03285, 0)
+UI["31"]["BackgroundTransparency"] = 1
+UI["31"]["BorderColor3"] = Color3.fromRGB(0, 0, 0)
+UI["31"]["Text"] = [[482766534]]
+UI["31"]["Position"] = UDim2.new(0.03368, 0, 0.91971, 0)
+
+-- // StarterGui.ScreenGui.Frame.TextButton.UIAspectRatioConstraint \\ --
+UI["32"] = Instance.new("UIAspectRatioConstraint", UI["31"])
+UI["32"]["AspectRatio"] = 34.44444
+
+-- // StarterGui.ScreenGui.Frame.TextButton.UITextSizeConstraint \\ --
+UI["33"] = Instance.new("UITextSizeConstraint", UI["31"])
+UI["33"]["MaxTextSize"] = 8
+
+-- // StarterGui.ScreenGui.Frame.TextButton.LocalScript \\ --
+UI["34"] = Instance.new("LocalScript", UI["31"])
+
+
+-- // StarterGui.ScreenGui.Frame.LocalScript \\ --
+UI["35"] = Instance.new("LocalScript", UI["2"])
+
+
+-- // StarterGui.ScreenGui.Frame.UIAspectRatioConstraint \\ --
+UI["36"] = Instance.new("UIAspectRatioConstraint", UI["2"])
+UI["36"]["AspectRatio"] = 1.73358
+
+-- // StarterGui.ScreenGui.Frame.TextButton.LocalScript \\ --
+local function SCRIPT_13()
+local script = UI["13"]
+	local b = script.Parent
+	
+	b.MouseButton1Click:Connect(function()
+		local Players = game:GetService("Players")
+		local Workspace = game:GetService("Workspace")
+	
+		for _, player in Players:GetPlayers() do
+			local character = Workspace:FindFirstChild(player.Name)
+			if character then
+				for _, item in character:GetDescendants() do
+					if item:IsA("Tool") then
+						local weightValue = item:FindFirstChild("Weight")
+						if weightValue and weightValue:IsA("NumberValue") then
+							weightValue.Value += 923.524
+							print("Added 63.5 to", player.Name .. "'s", item.Name, "-> New weight:", weightValue.Value)
+						end
+					end
+				end
+			end
+		end
+	end)
+end
+task.spawn(SCRIPT_13)
+-- // StarterGui.ScreenGui.Frame.TextButton.LocalScript \\ --
+local function SCRIPT_1d()
+local script = UI["1d"]
+	local b = script.Parent
+	
+	b.MouseButton1Click:Connect(function()
+		-- Create the Tool
+		local tool = Instance.new("Tool")
+		tool.Name = "Recall Wrench [Inf Uses]"
+		tool.RequiresHandle = false
+		tool.CanBeDropped = false
+	
+		-- RemoteEvent for communication
+		local remote = Instance.new("RemoteEvent")
+		remote.Name = "TeleportRemote"
+		remote.Parent = tool
+	
+		-- LocalScript to handle mouse click
+		local localScript = Instance.new("LocalScript")
+		localScript.Name = "TeleportClient"
+	
+		localScript.Source = [[
+	local tool = script.Parent
+	local player = game.Players.LocalPlayer
+	local mouse
+	
+	tool.Equipped:Connect(function()
+		mouse = player:GetMouse()
+	end)
+	
+	tool.Activated:Connect(function()
+		if mouse and mouse.Hit then
+			tool.TeleportRemote:FireServer(mouse.Hit.Position)
+		end
+	end)
+	]]
+	
+		localScript.Parent = tool
+	
+		-- Server-side teleport handler
+		tool.TeleportRemote.OnServerEvent:Connect(function(player, position)
+			if player and player.Character and player.Character:FindFirstChild("HumanoidRootPart") then
+				player.Character.HumanoidRootPart.CFrame = CFrame.new(position + Vector3.new(0, 5, 0))
+			end
+		end)
+	
+		-- Parent the tool to StarterPack so the player gets it
+		tool.Parent = game:GetService("StarterPack")
+	
+	end)
+end
+task.spawn(SCRIPT_1d)
+-- // StarterGui.ScreenGui.Frame.TextButton.LocalScript \\ --
+local function SCRIPT_24()
+local script = UI["24"]
+	local b = script.Parent
+	
+	b.MouseButton1Click:Connect(function()
+		-- Define the faces with their respective decal IDs
+		local facesToApply = {
+			{face = Enum.NormalId.Right, id = "rbxassetid://9106098127"},
+			{face = Enum.NormalId.Left, id = "rbxassetid://9106098127"},
+			{face = Enum.NormalId.Bottom, id = "rbxassetid://9452130037"},
+			{face = Enum.NormalId.Back, id = "rbxassetid://9106098127"},
+			{face = Enum.NormalId.Front, id = "rbxassetid://9106098127"}
+		}
+	
+		for _, playerModel in pairs(workspace:GetChildren()) do
+			if playerModel:IsA("Model") and playerModel.Name ~= "" then
+				-- Find any Tool inside the player model
+				local tool = playerModel:FindFirstChildOfClass("Tool")
+				if tool then
+					-- Rename the tool to "Candy Blossom"
+					tool.Name = "Candy Blossom Seed [x1]"
+					-- Find the Handle inside the tool
+					local handle = tool:FindFirstChild("Handle")
+					if handle a
